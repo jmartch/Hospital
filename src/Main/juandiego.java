@@ -9,5 +9,8 @@ package Main;
  * @author User
  */
 public class juandiego {
-    
+    public static void main(String[] args) {
+        System.out.println("Perro");
+        System.out.println("Camargo");
+    }
 }
